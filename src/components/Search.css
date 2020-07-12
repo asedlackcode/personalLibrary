@@ -1,0 +1,15 @@
+.searchBar {
+    width: 80%;
+    height: 140px;
+}
+
+.searchCard {
+    padding: 10px;
+}
+
+@media only screen and (max-width: 760px) {
+    .searchBar {
+        width: 100%;
+        height: 160px;
+    }
+}
